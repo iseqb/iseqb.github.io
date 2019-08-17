@@ -2,6 +2,6 @@
 
 iSEQB "Certified Professional for Software Engineering"
 
-### Foundation Level (CPSE-F)
-### Advanced Level (CPSE-A)
-### Expert Level (CPSE-E)
+### 1. Foundation Level (CPSE-F)
+### 2. Advanced Level (CPSE-A)
+### 3. Expert Level (CPSE-E)
