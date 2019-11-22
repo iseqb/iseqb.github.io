@@ -5,3 +5,7 @@ iSEQB "Certified Professional for Software Engineering"
 ## 1. Foundation Level (CPSE-F)
 ## 2. Advanced Level (CPSE-A)
 ## 3. Expert Level (CPSE-E)
+
+# references
+
+## [Clean Code Developer](https://clean-code-developer.com)
