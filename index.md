@@ -10,3 +10,4 @@ iSEQB "Certified Professional for Software Engineering"
 
 ## [Clean Code Developer](https://clean-code-developer.com)
 ## [Open Practice Library](https://openpracticelibrary.com)
+## [Semantic Versioning](https://semver.org)
