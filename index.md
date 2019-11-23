@@ -8,7 +8,10 @@ iSEQB "Certified Professional for Software Engineering"
 
 # references
 
+sorted alphabetically 
+
 ## [Agile Manifesto](https://agilemanifesto.org)
 ## [Clean Code Developer](https://clean-code-developer.com)
+## [Git SCM](https://git-scm.com/book/en/v2)
 ## [Open Practice Library](https://openpracticelibrary.com)
 ## [Semantic Versioning](https://semver.org)
