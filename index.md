@@ -12,6 +12,7 @@ sorted alphabetically
 
 ## [Agile Manifesto](https://agilemanifesto.org)
 ## [Clean Code Developer](https://clean-code-developer.com)
+## [Inner Source Patterns](https://github.com/InnerSourceCommons/InnerSourcePatterns#list-of-patterns)
 ## [Git SCM](https://git-scm.com/book/en/v2)
 ## [Open Practice Library](https://openpracticelibrary.com)
 ## [Semantic Versioning](https://semver.org)
