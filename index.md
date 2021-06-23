@@ -6,6 +6,12 @@ iSEQB "Certified Professional for Software Engineering"
 ## 2. Advanced Level (CPSE-A)
 ## 3. Expert Level (CPSE-E)
 
+# roadmap(s)
+
+forked from upstream roadmap(s) - sorted alphabetically 
+
+## [stemmlerjs/software-design-and-architecture-roadmap](github.com__stemmlerjs__software-design-and-architecture-roadmap/#summary)
+
 # references
 
 sorted alphabetically 
